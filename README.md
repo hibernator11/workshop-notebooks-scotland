@@ -1,6 +1,6 @@
 # workshop-notebooks-scotland
 
-This is a colletion of Jupyter Notebooks used for a workshop in collaboration with University of Strathclyde, MSc Information and Library Studies, Library Technology and Systems.
+This is a colletion of Jupyter Notebooks used for a workshop in collaboration with the University of Strathclyde, MSc Information and Library Studies, Library Technology and Systems.
 
 ## Hutton Drawings metadata Example
 
