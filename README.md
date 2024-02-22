@@ -4,7 +4,7 @@ This is a colletion of Jupyter Notebooks used for a workshop in collaboration wi
 
 ## Hutton Drawings metadata Example
 
-Dataset: [Hutton Drawings](https://data.nls.uk/data/metadata-collections/hutton-drawings/)
-Format: MARCXML
-Extraction process (to CSV): ExploringCSV.ipynb
-Analysis: MARC-DataExtraction.ipynb
+- Dataset: [Hutton Drawings](https://data.nls.uk/data/metadata-collections/hutton-drawings/)
+- Format: MARCXML
+- Extraction process (to CSV): ExploringCSV.ipynb
+- Analysis: MARC-DataExtraction.ipynb
