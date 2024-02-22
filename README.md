@@ -6,5 +6,5 @@ This is a colletion of Jupyter Notebooks used for a workshop in collaboration wi
 
 - Dataset: [Hutton Drawings](https://data.nls.uk/data/metadata-collections/hutton-drawings/)
 - Format: MARCXML
-- Extraction process (to CSV): [ExploringCSV.ipynb]{https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/ExploringCSV.ipynb}
-- Analysis: [MARC-DataExtraction.ipynb]{https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/MARC-DataExtraction.ipynb}
+- Extraction process (to CSV): [ExploringCSV.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/ExploringCSV.ipynb)
+- Analysis: [MARC-DataExtraction.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/MARC-DataExtraction.ipynb)
