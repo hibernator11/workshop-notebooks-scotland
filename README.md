@@ -8,4 +8,4 @@ This is a colletion of Jupyter Notebooks used for a workshop in collaboration wi
 - Format: MARCXML
 - Extraction process (to CSV): [ExploringCSV.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/ExploringCSV.ipynb)
 - Analysis: [MARC-DataExtraction.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/MARC-DataExtraction.ipynb)
-- Method: map visualisation based on Wikidata
+- Method: [map visualisation based on Wikidata](https://w.wiki/9Fde)
