@@ -39,3 +39,7 @@ This is a colletion of Jupyter Notebooks used for a workshop in collaboration wi
 - Candela, G. et al. (2022). Reusing digital collections from GLAM institutions. Journal of Information Science. 48(2): 251-267. https://doi.org/10.1177/0165551520950246
 - Candela, G., Gabriëls, N., Chambers, S., Dobreva, M., Ames, S., Ferriter, M., Fitzgerald, N., Harbo, V., Hofmann, K., Holownia, O., Irollo, A., Mahey, M., Manchester, E., Pham, T.-A., Potter, A., & Van Keer, E. (2023). A checklist to publish collections as data in GLAM institutions. Global Knowledge, Memory and Communication. Advance online publication. https://doi.org/10.1108/GKMC-06-2023-0195
 - https://github.com/hibernator11/hdh-compartir-pantalla-2023
+
+  
+### Licence
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license.</a>.
