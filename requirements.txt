@@ -3,3 +3,4 @@ pymarc==4.2.1
 SPARQLWrapper==2.0.0
 nltk==3.8.1
 spacy==3.7.2
+matplotlib==3.8.0
