@@ -29,7 +29,7 @@ This is a colletion of Jupyter Notebooks used for a workshop in collaboration wi
 - Method: [map visualisation based on Wikidata](https://w.wiki/9FwJ)
 
 
-## References
+### References
 - https://data.nls.uk/projects/the-national-librarians-research-fellowship-in-digital-scholarship-2022-23/
 - https://glam-workbench.net/
 - https://github.com/hibernator11/notebook-EADH-2021-workshop
