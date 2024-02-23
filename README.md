@@ -15,6 +15,14 @@ This is a colletion of Jupyter Notebooks used for a workshop in collaboration wi
 - Method: [map visualisation based on Wikidata](https://w.wiki/9Fde)
 
 
+## Biblioteca Virtual Miguel de Cervantes dataset - Linked Open Data - Wikidata
+
+- Dataset: [Biblioteca Virtual Miguel de Cervantes](https://data.cervantesvirtual.com/datos-enlazados)
+- Format: RDF
+- SPARQL query: [MARC-DataExtraction.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/notebooks/LinkedOpenData-BVMC.ipynb)
+- Method: [map visualisation based on Wikidata](https://w.wiki/9FwJ)
+
+
 ## References
 - https://data.nls.uk/projects/the-national-librarians-research-fellowship-in-digital-scholarship-2022-23/
 - Candela, G. (2023). Towards a semantic approach in GLAM Labs: The case of the Data Foundry at the National Library of Scotland. Journal of Information Science. https://doi.org/10.1177/01655515231174386
