@@ -25,7 +25,7 @@ This is a colletion of Jupyter Notebooks used for a workshop in collaboration wi
 
 - Dataset: [Biblioteca Virtual Miguel de Cervantes](https://data.cervantesvirtual.com/datos-enlazados)
 - Format: RDF (LOD)
-- SPARQL query: [MARC-DataExtraction.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/notebooks/LinkedOpenData-BVMC.ipynb)
+- SPARQL query (BVMC and Wikidata): [MARC-DataExtraction.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/notebooks/LinkedOpenData-BVMC.ipynb)
 - Method: [map visualisation based on Wikidata](https://w.wiki/9FwJ)
 
 
