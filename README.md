@@ -17,14 +17,14 @@ This is a colletion of Jupyter Notebooks used for a workshop in collaboration wi
 ### A Medical History of British India digitised dataset - Data Foundry - National Library of Scotland
 
 - Dataset: [A Medical History of British India](https://data.nls.uk/data/digitised-collections/a-medical-history-of-british-india/)
-- Format: Plain text
+- Format: Plain text (TXT)
 - Analysis: [Exploring-Medical-History-of-British-India.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/notebooks/Exploring-Medical-History-of-British-India.ipynb)
 - Method: Natural Language Processing and Named-Entity Recognition
 
 ### Biblioteca Virtual Miguel de Cervantes dataset - Linked Open Data - Wikidata
 
 - Dataset: [Biblioteca Virtual Miguel de Cervantes](https://data.cervantesvirtual.com/datos-enlazados)
-- Format: RDF
+- Format: RDF (LOD)
 - SPARQL query: [MARC-DataExtraction.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/notebooks/LinkedOpenData-BVMC.ipynb)
 - Method: [map visualisation based on Wikidata](https://w.wiki/9FwJ)
 
