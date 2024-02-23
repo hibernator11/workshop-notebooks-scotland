@@ -1,4 +1,4 @@
-# workshop-notebooks-scotland
+# Workshop Computational access to digital collections - University of Strathclyde
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/workshop-notebooks-scotland/HEAD)
 
