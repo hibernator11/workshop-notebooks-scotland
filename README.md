@@ -4,7 +4,7 @@
 
 This is a colletion of Jupyter Notebooks used for a workshop in collaboration with the University of Strathclyde, MSc Information and Library Studies, Library Technology and Systems.
 
-## Hutton Drawings metadata Example - Data Foundry - National Library of Scotland
+## Hutton Drawings metadata dataset - Data Foundry - National Library of Scotland
 
 - Dataset: [Hutton Drawings](https://data.nls.uk/data/metadata-collections/hutton-drawings/)
 - Format: MARCXML
