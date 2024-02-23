@@ -10,10 +10,16 @@ This is a colletion of Jupyter Notebooks used for a workshop in collaboration wi
 
 - Dataset: [Hutton Drawings](https://data.nls.uk/data/metadata-collections/hutton-drawings/)
 - Format: MARCXML
-- Extraction process (to CSV): [MARC-DataExtraction.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/notebooks/MARC-DataExtraction.ipynb)
-- Analysis: [ExploringCSV.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/notebooks/ExploringCSV.ipynb)
+- Extraction process (to CSV): [MARC-DataExtraction-Hutton.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/notebooks/MARC-DataExtraction-Hutton.ipynb)
+- Analysis: [ExploringCSV-Hutton.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/notebooks/ExploringCSV-Hutton.ipynb)
 - Method: [map visualisation based on Wikidata](https://w.wiki/9Fde)
 
+## A Medical History of British India digitised dataset - Data Foundry - National Library of Scotland
+
+- Dataset: [A Medical History of British India](https://data.nls.uk/data/digitised-collections/a-medical-history-of-british-india/)
+- Format: Plain text
+- Analysis: [Exploring-Medical-History-of-British-India.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/notebooks/Exploring-Medical-History-of-British-India.ipynb)
+- Method: Natural Language Processing and Named-Entity Recognition
 
 ## Biblioteca Virtual Miguel de Cervantes dataset - Linked Open Data - Wikidata
 
