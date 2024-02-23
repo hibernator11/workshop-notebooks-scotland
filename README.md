@@ -4,6 +4,8 @@
 
 This is a colletion of Jupyter Notebooks used for a workshop in collaboration with the University of Strathclyde, MSc Information and Library Studies, Library Technology and Systems.
 
+<img src="https://www.strath.ac.uk/media/1newwebsite/webteam/logos/crest-jubilee-390x60.svg">
+
 ## Hutton Drawings metadata dataset - Data Foundry - National Library of Scotland
 
 - Dataset: [Hutton Drawings](https://data.nls.uk/data/metadata-collections/hutton-drawings/)
