@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:identifier>74508590</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508590</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1868 and 1869</dc:description>
+      <dc:description>Actor in stage costume as a clown..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Deulin, Nicolo</dc:subject>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Masks (costume)</dc:subject>
+      <dc:subject>Wigs</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Clowns</dc:subject>
+      <dc:subject>Men (male humans)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508592</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508592</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: 1868</dc:description>
+      <dc:description>Two actors in stage costume, one with a bird mask holding a stick..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Sticks (object genre)</dc:subject>
+      <dc:subject>Masks (costume)</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Beards</dc:subject>
+      <dc:subject>Double portraits</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508594</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508594</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: 1868</dc:description>
+      <dc:description>Actor with a bird mask..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Masks (costume)</dc:subject>
+      <dc:subject>Sticks (object genre)</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Men (male humans)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508596</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508596</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: 1868</dc:description>
+      <dc:description>Actress in dancing costume..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Ballet dancers</dc:subject>
+      <dc:subject>Ballet slippers</dc:subject>
+      <dc:subject>Backdrops</dc:subject>
+      <dc:subject>Headdresses</dc:subject>
+      <dc:subject>Women (female humans)</dc:subject>
+      <dc:subject>Tutus</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508598</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508598</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: 1868</dc:description>
+      <dc:description>Three actors in shepherd costume, one a small child..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Shepherds</dc:subject>
+      <dc:subject>Children (people by age group)</dc:subject>
+      <dc:subject>Flowers (plants)</dc:subject>
+      <dc:subject>Hairstyles</dc:subject>
+      <dc:subject>Jewelry</dc:subject>
+      <dc:subject>Ballet slippers</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Sticks (object genre)</dc:subject>
+      <dc:subject>Men (male humans)</dc:subject>
+      <dc:subject>Women (female humans)</dc:subject>
+      <dc:subject>Group portraits</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508600</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508600</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: 1868</dc:description>
+      <dc:description>Two actors in shepherd costume..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Shepherds</dc:subject>
+      <dc:subject>Hairstyles</dc:subject>
+      <dc:subject>Earrings</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Double portraits</dc:subject>
+      <dc:subject>Crooks (object genres)</dc:subject>
+      <dc:subject>Mitts (fingerless handwear)</dc:subject>
+      <dc:subject>Pumps (shoes)</dc:subject>
+      <dc:subject>Furbelows</dc:subject>
+      <dc:subject>Peplums</dc:subject>
+      <dc:subject>Dresses</dc:subject>
+      <dc:subject>Trousers</dc:subject>
+      <dc:subject>Men (male humans)</dc:subject>
+      <dc:subject>Women (female humans)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508602</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508602</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: 1868</dc:description>
+      <dc:description>Actress in dancing costume..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Tutus</dc:subject>
+      <dc:subject>Ballet</dc:subject>
+      <dc:subject>Ballet dancers</dc:subject>
+      <dc:subject>Ballet slippers</dc:subject>
+      <dc:subject>Headdresses</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Women (female humans)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508604</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508604</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1868 and 1869</dc:description>
+      <dc:description>Actress in costume standing by a classical urn..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Dresses</dc:subject>
+      <dc:subject>Hairstyles</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Urns</dc:subject>
+      <dc:subject>Women (female humans)</dc:subject>
+      <dc:subject>Chaises longues</dc:subject>
+      <dc:subject>Mantillas</dc:subject>
+      <dc:subject>Spanish</dc:subject>
+      <dc:subject>Beads (pierced objects)</dc:subject>
+      <dc:subject>Necklaces</dc:subject>
+      <dc:subject>Bracelets (jewelry)</dc:subject>
+      <dc:subject>Pedestals</dc:subject>
+      <dc:subject>Rose (plant)</dc:subject>
+      <dc:subject>Aprons (protective wear)</dc:subject>
+      <dc:subject>Lace</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508606</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508606</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1868 and 1869</dc:description>
+      <dc:description>Actor with a grotesque head costume..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Masks (costume)</dc:subject>
+      <dc:subject>Forests</dc:subject>
+      <dc:subject>Clubs (weapons)</dc:subject>
+      <dc:subject>Trees</dc:subject>
+      <dc:subject>Rock</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Papier mâché</dc:subject>
+      <dc:subject>Ruffs</dc:subject>
+      <dc:subject>Grotesques</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508608</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508608</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1868 and 1869</dc:description>
+      <dc:description>Actor in costume with hand on his head..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Harlequin (Fictitious character)</dc:subject>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Masks (costume)</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Men (male humans)</dc:subject>
+      <dc:subject>Pose</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508610</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508610</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1868 and 1869</dc:description>
+      <dc:description>Actress in costume by a chair..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Dresses</dc:subject>
+      <dc:subject>Jewelry</dc:subject>
+      <dc:subject>Hairstyles</dc:subject>
+      <dc:subject>Chairs</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508612</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508612</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actor in formal dress with top hat..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Top hats</dc:subject>
+      <dc:subject>Walking sticks</dc:subject>
+      <dc:subject>Moustaches</dc:subject>
+      <dc:subject>Monocles</dc:subject>
+      <dc:subject>Flowers (plants)</dc:subject>
+      <dc:subject>Gloves</dc:subject>
+      <dc:subject>Handkerchiefs</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508614</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508614</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actress in costume with jewels..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Dresses</dc:subject>
+      <dc:subject>Jewelry</dc:subject>
+      <dc:subject>Hairstyles</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508616</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508616</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actress in military costume with shield..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Armor (protective wear)</dc:subject>
+      <dc:subject>Hats</dc:subject>
+      <dc:subject>Shields</dc:subject>
+      <dc:subject>Swords</dc:subject>
+      <dc:subject>Daggers (weapons)</dc:subject>
+      <dc:subject>Knights</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508618</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508618</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actor with trident and much facial hair..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Masks (costume)</dc:subject>
+      <dc:subject>Moustaches</dc:subject>
+      <dc:subject>Armor (protective wear)</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508620</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508620</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actress wearing shorts..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Hats</dc:subject>
+      <dc:subject>Coats</dc:subject>
+      <dc:subject>Shorts (garments)</dc:subject>
+      <dc:subject>Sailors</dc:subject>
+      <dc:subject>Jewelry</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508622</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508622</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actor with strange hairdo and sour expression..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Hairstyles</dc:subject>
+      <dc:subject>Hairstyling</dc:subject>
+      <dc:subject>Hair</dc:subject>
+      <dc:subject>Dresses</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508624</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508624</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actor in costume of old wood-cutter..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Axes (tools)</dc:subject>
+      <dc:subject>Beards</dc:subject>
+      <dc:subject>Wood (plant material)</dc:subject>
+      <dc:subject>Older people</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508626</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508626</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actress with a cane and a vase..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Dresses</dc:subject>
+      <dc:subject>Hairstyles</dc:subject>
+      <dc:subject>Jewelry</dc:subject>
+      <dc:subject>Canes</dc:subject>
+      <dc:subject>Urns</dc:subject>
+      <dc:subject>Vases</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508628</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508628</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actor in clown costume..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Clowns</dc:subject>
+      <dc:subject>Masks (costume)</dc:subject>
+      <dc:subject>Hairstyles</dc:subject>
+      <dc:subject>Thistles</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508630</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508630</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actor in costume as old man leaning on stick..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Costume (mode of fashion)</dc:subject>
+      <dc:subject>Beards</dc:subject>
+      <dc:subject>Canes</dc:subject>
+      <dc:subject>Walking sticks</dc:subject>
+      <dc:subject>Older people</dc:subject>
+      <dc:subject>Sticks (object genre)</dc:subject>
+      <dc:subject>Hairstyles</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508632</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508632</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actress in military costume with curved sword..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Armor (protective wear)</dc:subject>
+      <dc:subject>Shields</dc:subject>
+      <dc:subject>Hats</dc:subject>
+      <dc:subject>Swords</dc:subject>
+      <dc:subject>Daggers (weapons)</dc:subject>
+      <dc:subject>Urns</dc:subject>
+      <dc:subject>Vases</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508634</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508634</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actor in policeman's costume with a truncheon..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Hats</dc:subject>
+      <dc:subject>Moustaches</dc:subject>
+      <dc:subject>Masks (costume)</dc:subject>
+      <dc:subject>Belts (costume accessories)</dc:subject>
+      <dc:subject>Sticks (object genre)</dc:subject>
+      <dc:subject>Police officers</dc:subject>
+      <dc:subject>Policemen</dc:subject>
+      <dc:subject>Nightsticks</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508636</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508636</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actor playing guitar with face blacked up and extraordinary hat..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Hats</dc:subject>
+      <dc:subject>Guitars</dc:subject>
+      <dc:subject>Guitarists</dc:subject>
+      <dc:subject>Military uniforms</dc:subject>
+      <dc:subject>Parody</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508638</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508638</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actor with pantomine horse..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Older people</dc:subject>
+      <dc:subject>Beards</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508640</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508640</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actress beside rocks..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Dresses</dc:subject>
+      <dc:subject>Veils (headcloths)</dc:subject>
+      <dc:subject>Hairstyles</dc:subject>
+      <dc:subject>Jewelry</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74508642</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74508642</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>Actress smoking a cigar..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 10.00 x 14.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Hats</dc:subject>
+      <dc:subject>Coats</dc:subject>
+      <dc:subject>Jewelry</dc:subject>
+      <dc:subject>Shorts (garments)</dc:subject>
+      <dc:subject>Sailors</dc:subject>
+      <dc:subject>Smoke</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74957604</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74957604</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1868 and 1869</dc:description>
+      <dc:description>10 characters from pantomimes in the Theatre Royal, Edinburgh during the latter half of the nineteenth century..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 64.00 x 52.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Masks (costume)</dc:subject>
+      <dc:subject>Dresses</dc:subject>
+      <dc:subject>Hats</dc:subject>
+      <dc:subject>Clowns</dc:subject>
+      <dc:subject>Men (male humans)</dc:subject>
+      <dc:subject>Women (female humans)</dc:subject>
+      <dc:subject>Children (people by age group)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74957607</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74957607</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1868 and 1869</dc:description>
+      <dc:description>10 characters from pantomimes in the theatre during the latter half of the nineteenth century..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 64.00 x 52.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Masks (costume)</dc:subject>
+      <dc:subject>Men (male humans)</dc:subject>
+      <dc:subject>Women (female humans)</dc:subject>
+      <dc:subject>Children (people by age group)</dc:subject>
+      <dc:subject>Clowns</dc:subject>
+      <dc:subject>Knights</dc:subject>
+      <dc:subject>Flags</dc:subject>
+      <dc:subject>Hats</dc:subject>
+      <dc:subject>Coat of arms elements</dc:subject>
+      <dc:subject>Shields</dc:subject>
+      <dc:subject>Hairstyles</dc:subject>
+      <dc:subject>Armor (protective wear)</dc:subject>
+      <dc:subject>Beards</dc:subject>
+      <dc:subject>Kilts</dc:subject>
+      <dc:subject>Swords</dc:subject>
+      <dc:subject>Dragons</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74957610</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74957610</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1868 and 1869</dc:description>
+      <dc:description>14 characters from pantomimes in the Theatre Royal, Edinburgh during the latter half of the nineteenth century..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 64.00 x 52.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Masks (costume)</dc:subject>
+      <dc:subject>Headgear</dc:subject>
+      <dc:subject>Swords</dc:subject>
+      <dc:subject>Axes (tools)</dc:subject>
+      <dc:subject>Jesters</dc:subject>
+      <dc:subject>Men (male humans)</dc:subject>
+      <dc:subject>Women (female humans)</dc:subject>
+      <dc:subject>Ballet slippers</dc:subject>
+      <dc:subject>Sticks (object genre)</dc:subject>
+      <dc:subject>Shields</dc:subject>
+      <dc:subject>Clowns</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Shamans</dc:subject>
+      <dc:subject>Footwear</dc:subject>
+      <dc:subject>Rifles (long guns)</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74957613</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74957613</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>14 characters from pantomimes in the theatre during the latter half of the nineteenth century..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 64.00 x 52.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Masks (costume)</dc:subject>
+      <dc:subject>Men (male humans)</dc:subject>
+      <dc:subject>Women (female humans)</dc:subject>
+      <dc:subject>Wings (costume accessories)</dc:subject>
+      <dc:subject>Bows (weapons)</dc:subject>
+      <dc:subject>Arrows</dc:subject>
+      <dc:subject>Feather (material)</dc:subject>
+      <dc:subject>Axes (tools)</dc:subject>
+      <dc:subject>Umbrellas</dc:subject>
+      <dc:subject>Rifles (long guns)</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Tomahawks (weapons)</dc:subject>
+      <dc:subject>Headgear</dc:subject>
+      <dc:subject>Pistols</dc:subject>
+      <dc:subject>Veils (headcloths)</dc:subject>
+      <dc:subject>Pantaloons</dc:subject>
+      <dc:subject>Shamans</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74957616</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74957616</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>12 characters from pantomimes in the Theatre Royal, Edinburgh during the latter half of the nineteenth century..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 64.00 x 52.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Masks (costume)</dc:subject>
+      <dc:subject>Headgear</dc:subject>
+      <dc:subject>Men (male humans)</dc:subject>
+      <dc:subject>Women (female humans)</dc:subject>
+      <dc:subject>Wings (costume accessories)</dc:subject>
+      <dc:subject>Crowns (costume components)</dc:subject>
+      <dc:subject>Moustaches</dc:subject>
+      <dc:subject>Sticks (object genre)</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Plants (vegetation)</dc:subject>
+      <dc:subject>Planters (containers)</dc:subject>
+      <dc:subject>Tights (opaque stockings)</dc:subject>
+      <dc:subject>Breeches (trousers)</dc:subject>
+      <dc:subject>Fairies</dc:subject>
+      <dc:subject>Beards</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74957619</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74957619</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>17 characters in pantomimes in the theatre during the latter half of the nineteenth century..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 64.00 x 52.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Masks (costume)</dc:subject>
+      <dc:subject>Headgear</dc:subject>
+      <dc:subject>Men (male humans)</dc:subject>
+      <dc:subject>Women (female humans)</dc:subject>
+      <dc:subject>Chairs</dc:subject>
+      <dc:subject>Nightsticks</dc:subject>
+      <dc:subject>Monocles</dc:subject>
+      <dc:subject>Top hats</dc:subject>
+      <dc:subject>Shields</dc:subject>
+      <dc:subject>Helmets</dc:subject>
+      <dc:subject>Beards</dc:subject>
+      <dc:subject>Axes (tools)</dc:subject>
+      <dc:subject>Moustaches</dc:subject>
+      <dc:subject>Clowns</dc:subject>
+      <dc:subject>Older people</dc:subject>
+      <dc:subject>Swords</dc:subject>
+      <dc:subject>Daggers (weapons)</dc:subject>
+      <dc:subject>Police officers</dc:subject>
+      <dc:subject>Veils (headcloths)</dc:subject>
+      <dc:subject>Banjos</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Scimitars</dc:subject>
+      <dc:subject>Musicians</dc:subject>
+      <dc:subject>Tights (opaque stockings)</dc:subject>
+      <dc:subject>Pantaloons</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+   <rdf:Description>
+      <dc:identifier>74957625</dc:identifier>
+      <dc:identifier>http://digital.nls.uk/74957625</dc:identifier>
+      <dc:title>[NLSBLANK].</dc:title>
+      <dc:format>still image</dc:format>
+      <dc:format>JPEG</dc:format>
+      <dc:extent>1 online resource</dc:extent>
+      <dc:publisher>National Library of Scotland, </dc:publisher>
+      <dc:date>2005.</dc:date>
+      <dc:language>zxx</dc:language>
+      <dc:description>Metadata context: metadata created as part of normal Library activities.</dc:description>
+      <dc:description>Originally published: between 1869 and 1870</dc:description>
+      <dc:description>12 female characters in pantomimes in the Princess Theatre, Edinburgh during the latter half of the nineteenth century..</dc:description>
+      <dc:isVersionOf>Electronic reproduction of: [NLSBLANK]. 1 photograph : black and white ; 64.00 x 52.00 cm.</dc:isVersionOf>
+      <dc:subject>Actors</dc:subject>
+      <dc:subject>Headgear</dc:subject>
+      <dc:subject>Women (female humans)</dc:subject>
+      <dc:subject>Feather (material)</dc:subject>
+      <dc:subject>Chairs</dc:subject>
+      <dc:subject>Pedestals</dc:subject>
+      <dc:subject>Veils (headcloths)</dc:subject>
+      <dc:subject>Bows (weapons)</dc:subject>
+      <dc:subject>Arrows</dc:subject>
+      <dc:subject>Gloves</dc:subject>
+      <dc:subject>Bicycles</dc:subject>
+      <dc:subject>Black-and-white prints (photographs)</dc:subject>
+      <dc:subject>Dress (culture-related concept)</dc:subject>
+      <dc:subject>Victorian</dc:subject>
+      <dc:subject>Hats</dc:subject>
+      <dc:subject>Bustles</dc:subject>
+      <dc:subject>Ruffle</dc:subject>
+      <dc:subject>Stripes</dc:subject>
+      <dc:subject>Europe, United Kingdom, Scotland, Edinburgh, Edinburgh (inhabited place)</dc:subject>
+      <dc:rights>Metadata available under CC0 1.0 Universal </dc:rights>
+   </rdf:Description>
+</rdf:RDF>
