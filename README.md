@@ -28,6 +28,11 @@ This is a colletion of Jupyter Notebooks used for a workshop in collaboration wi
 - SPARQL query (BVMC and Wikidata): [MARC-DataExtraction.ipynb](https://nbviewer.org/github/hibernator11/workshop-notebooks-scotland/blob/main/notebooks/LinkedOpenData-BVMC.ipynb)
 - Method: [map visualisation based on Wikidata](https://w.wiki/9FwJ)
 
+### Datasets
+
+The folder input contains a list of datasets provided by:
+- [Data Foundry](https://data.nls.uk/) - National Library of Scotland
+- [Chronicling America](https://chroniclingamerica.loc.gov/) - Library of Congress
 
 ### Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
